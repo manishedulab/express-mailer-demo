@@ -13,8 +13,8 @@ mailer.extend(app, {
     port: 465, // port for secure SMTP
     transportMethod: 'SMTP', // default is SMTP. Accepts anything that nodemailer accepts
     auth: {
-      user: 'manish@edulab.in',
-      pass: 'Manish_edulab@123'
+      user: 'kjgk@edulab.in',
+      pass: 'hyjghjkghkgh'
     }
   });
 
